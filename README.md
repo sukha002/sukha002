@@ -1,13 +1,13 @@
 [![Sukhwinder's GitHub Banner](./assets/GitHubHeader.png)](https://sukhpanjokhra.wordpress.com/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://sukhpanjokhra.wordpress.com/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://sukhpanjokhra.wordpress.com/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Sukhpanjokhra)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sukhaa02/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sukha002)
 
 Hey there 👋
 
-I’m Sukhwinder (sukhh- win- ), mean for sharing and spreading the happiness, 
+I’m Sukhwinder (sukhh- win- ), mean for sharing and spreading the happiness, https://www.youtube.com/watch?v=MKZ8rxh_m9c&ab_channel=PronounceNames
 I am a python developer, creative coder and self-proclaimed designer specializing in development. I used to develop the machine learning model and hare them on cloud servers. 
 I am an AZ-900 Certified. 
 Want to know more about me? [Check out my portfolio.](https://sukhpanjokhra.wordpress.com/)
