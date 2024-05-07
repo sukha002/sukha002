@@ -25,8 +25,4 @@ Want to know more about me? [Check out my portfolio.](https://sukhpanjokhra.word
 <!-- - [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing) -->
 <!--- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing) -->
 <!-- BLOG-POST-LIST:END -->
-
-<br>
-<br>
-
 "# sukha002" 
