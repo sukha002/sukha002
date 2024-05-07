@@ -31,14 +31,8 @@ Want to know more about me? [Check out my portfolio.](https://sukhpanjokhra.word
 ## 📌 Top Repositories
 
 <br>
-<img width="235" alt="Screenshot 2023-07-31 222910" src="![WhatsApp Image 2024-05-07 at 17 22 47_5ea96eaf](https://github.com/sukha002/sukha002/assets/31208964/dea4a6bc-9d6b-4a2d-8ae9-2d6430f87753)
+<img width="235" src="![WhatsApp Image 2024-05-07 at 17 22 47_5ea96eaf](https://github.com/sukha002/sukha002/assets/31208964/dea4a6bc-9d6b-4a2d-8ae9-2d6430f87753)
 ">
-
-## &#x1f4c8; GitHub Stats
-
-<br>
- 
-
 <br>
 
 "# sukha002" 
