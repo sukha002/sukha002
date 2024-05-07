@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://sukhpanjokhra.word
 
 <!--
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:START --> ## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START --> 
 
 <br>
 
